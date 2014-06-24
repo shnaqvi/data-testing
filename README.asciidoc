@@ -1,0 +1,6 @@
+== Data Validation using Python 
+. Input: csv or xls data files
+. Ouptut: report in csv or xls format
+. Computation: executing test cases in python to test the sanity of data
+. Python libraries or Framework: Data Nitro(, Pandas, xlrd, xlwt)
+
